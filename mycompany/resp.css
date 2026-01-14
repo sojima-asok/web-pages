@@ -1,0 +1,2093 @@
+/*************Responsive Styles*****************/
+/***************iPhone Portrait**************/
+@media only screen and (max-width: 1465px) and (min-width: 1201px){
+    .col-md-4.logo{
+        width: 23.333333% !important;
+    }
+    .col-md-8.navigation{
+        width: 76.666667% !important;
+    }
+}
+@media only screen and (max-width: 1289px) and (min-width: 1201px){
+    .access a{
+        padding-right: 26px;
+    }
+    .header-section{
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+    .header-next{
+        right: 46px;
+    }
+}
+@media only screen and (max-width: 1389px) and (min-width: 1290px){
+  
+    .header-section{
+        padding-right: 14px;
+        padding-left: 14px;
+    }
+}
+@media only screen and (max-width: 479px) and (min-width: 320px){
+    .container{
+        width:100%;
+        padding: 0;
+    }
+    .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .service-menu:before{
+       display: none;
+    }
+    .Knowledge-menu:before{
+        display: none;	
+    }
+    .logo{
+        display:none;
+    }
+    .navigation{
+        display:none;
+    }
+  
+    .footnav1{
+        display: table-cell;
+    }
+    .foot1{
+        width: 100%;
+    }
+    .title-content p{
+        margin-left: 15px;
+        margin-right:15px;
+        font-size: 16px;
+        line-height: 27px;
+        padding-bottom: 53px;
+        padding-top: 14px;
+    }
+    .title_blog{
+        font-size: 38px;
+    }
+    .title-content h3{
+        font-size: 38px;
+        line-height: 52px;
+        margin-left: -3px;
+
+    }
+    .item{
+        height:558px !important;
+    }
+    .title-content h1{
+        margin-top: 125px;
+        font-size: 22px;
+        line-height: 55px;
+        
+    }
+    .comm{
+        width: 48%;
+    }
+    .title-content{
+        margin-top: -20px;
+    }
+    .blog-division{
+        padding-top: 50px;
+        padding-bottom: 70px;
+        margin-top:45px;
+    }
+    .slick-dots{
+        bottom: 57px;
+    }
+    .case{
+        margin-top: -44px !important;
+        height: 385px !important;
+    }
+    .adp{
+        margin-top: 40px !important;
+    }
+    .case-division{
+        margin-top: 50px;
+        padding-top: 40px;
+    padding-bottom: 70px;
+    }
+    .blog_contents.ink img{
+        width: 100% !important;
+    }
+    .post.fgdhbn{
+        width: 100% !important;
+    }
+   cite.fn {
+    padding-left: 0;
+    margin-top: 10px;
+   }
+   .comment-author.vcard {
+    display: flex;
+    flex-direction: column;
+}
+    .comment-body p{
+        top: 51px;
+    }
+    
+   
+    .click-expand.ttt .eael-tab-title{
+        left: -100% !important;
+    }
+    .eael-data-table tbody tr td{
+        padding: 19px 21px !important;
+    }
+    .fnce ul li::before{
+        left: 8px !important;
+    }
+    .partner-dd{
+        padding-top: 45px;
+        padding-bottom: 77px;
+    }
+    .case:before{
+        font-size: 41px;
+    }
+    .filters-button-group .button.is-checked{
+        line-height: 31px;
+    }
+    .table-contents h5{
+        line-height: 32px;
+    }
+    .error-msg p{
+        line-height: 36px;
+        margin-top: 20px;
+    }
+    .error-msg{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .error-msg{
+        padding-top: 90px;
+        padding-bottom: 65px;
+    }
+    #mc4wp-form-1 input[type="email"], #mc4wp-form-1 input[type="text"]{
+        width: 100%;
+
+    }
+    .alignnone.size-medium.wp-image-2146{
+        width: 100% !important;
+    }
+    .alignnone.size-medium.wp-image-2147{
+        width: 100% !important;
+    }
+    .alignnone.size-medium.wp-image-2144{
+        width: 100% !important;
+    }
+    .alignnone.size-full.wp-image-2148{
+        width: 100% !important;
+    }
+    .alignnone.size-full.wp-image-2152{
+        width: 100% !important;
+    }
+    .click-expand .eael-tab-title{
+        left: -100%;
+        top: -20px;
+    }
+    .title_properties p{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .children{
+        padding-left: 15px !important;
+    }
+    .comment-body p{
+        width: auto !important;
+        word-break: break-all;
+        margin-left: 0 !important;
+        margin-top: 0 !important;
+    }
+    .a2a_svg{
+        background-color: #fff !important;
+    }
+    .col-md-3.demm{
+        width: 100% !important;
+    }
+    .tb , thead, tbody, th, td, tr { 
+		display: block; 
+	}
+    .tb td{
+        width: 100%;
+    }
+    .date_normal p{
+        display: none;
+    }
+    .demm{
+        margin-left: -15px;
+    }
+    .nww{
+        margin-left: -15px;
+
+    }
+    body.logged-in .comment-body p{
+        margin-top: 10px !important;
+    }
+    .reply{
+        padding-left: 0px;
+    }
+                                                             /* Home page */
+
+    .header-next{
+        right: 15px;
+        padding: 9px 29px;
+        left: 15px;
+        display: inline;
+       
+    }
+    .header-next p{
+        text-align: center;
+    }
+    .mail_to{
+        padding-right: 0px;
+    }
+    .section1 h3{
+        padding-top: 20px;
+    }
+    #mc4wp-form-1{
+        width: 100%;
+    }
+    #mc4wp-form-1 input[type="email"]{
+        margin-left: 0px;
+    }
+    #mc4wp-form-1 input[type="submit"]{
+        margin-left: 0px;
+    }
+  .one{
+      padding-left: 0px;
+      padding-right: 0px;
+  }
+  .two{
+    padding-left: 0px;
+    padding-right: 0px; 
+  }
+  .three{
+    padding-left: 0px;
+    padding-right: 0px;    
+  }
+    #mc4wp-form-1 input[type="email"], #mc4wp-form-1 input[type="text"]{
+        margin-bottom: 15px;
+    }
+    .test_content{
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    .testimonial:before{
+        position:unset;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 30px;
+    }
+    /* Footer */
+
+    .footerDatas{
+        margin-top:40px;
+    }
+    .footnav2 {
+        margin-top: 0px;
+    }
+    .footnav3{
+        margin-top: 25px;
+    }
+    
+    .footSecond{
+        margin-bottom:40px;
+    }
+    .foot2{
+        margin-top: 0px;
+    }
+    /* Blog */
+    .featuredcol.box{
+        width:100%;
+        padding-bottom: 30px;
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: 10px;
+    }
+    .blogs{
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
+    .featuredcol p{
+        padding-bottom: 15px;
+    }
+    .blog-head h4{
+        padding-top: 20px;
+	    padding-bottom: 10px;
+    }
+  /*  2 sections with account, tax, treasure, legal */
+  .account{
+        margin: 0px 15px 0px 15px !important;
+    }
+    .tax {
+        margin: 20px 15px 0px 15px !important;
+    }
+    .treasure {
+        margin: 20px 15px 0px 15px !important;
+    }
+    .legals {
+        margin: 20px 15px 0px 15px !important;
+    }
+
+                    /* About Page */
+
+    .choose2{
+        margin-top: 25px;
+    }
+    .choose3{
+        margin-top: 25px;
+    }
+                    /* Testimonial */
+
+    .client2{
+        margin-top: 30px;
+    }
+    .client4{
+        margin-top: 30px;
+    }
+    .client6{
+        margin-top: 30px;
+    }
+    .client3{
+        margin-top: 30px;
+    }
+    .client5{
+        margin-top: 30px;
+    }
+  
+    .testimonial-section{
+        margin-left:15px;
+        margin-right: 15px;
+    } 
+                                  /* Contact Page */
+
+   
+                                  .form-contact{
+                                    display: block;
+                                    column-gap: 0px;
+                                    padding: 0px 5px;
+                                }
+    .phone:before{
+        justify-content: left;
+        margin-left: -59px;
+        margin-bottom: 0px;
+        margin-right: 10px;
+    }
+    .form1{
+        height: auto;
+        padding: 0px;
+    }
+    .form2{
+        padding: 0px;
+    }
+    .contact1{
+        width:100% !important;
+    }
+    #wpcf7-f956-p502-o1 input[type="text"], #wpcf7-f956-p502-o1 input[type="email"],#wpcf7-f956-p502-o1 input[type="tel"],#wpcf7-f956-p502-o1 textarea{
+        width: 100%;
+      
+      
+    }
+    #wpcf7-f956-p502-o1 label{
+        width: 100%;
+        padding: 0px !important;
+        
+    }
+    .contact1{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .mail:before{
+       position:inherit;
+       top: 0px;
+       margin-right: 10px;
+       
+    }
+   .send a{
+        font-size: 16px;
+    }
+    .phone{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .mail{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .wpcf7-response-output{
+        margin-bottom: 51px !important;
+        margin-right: 0px !important;
+        margin-left: 0px !important;
+    }
+  
+.contact1{
+    margin-left: 45px;
+}
+
+                                /* Blog Page */
+
+    .banner-blog{
+        height: 360px;
+    }
+    .title_blog{
+        line-height: 53px;
+    }
+    .blog_contents img{
+        width: 100%;
+    }
+    .title_properties{
+        margin-top: 40px;
+    }
+    .title{
+        white-space: unset;
+    }
+
+                                /* Services Page */
+
+    .second{
+        margin-bottom: 50px;
+         display: block;
+        
+    }
+    .partner{
+        padding-top: 70px;
+        padding-bottom: 100px;
+    }
+    .image-serv img{
+        width: 100%;
+    }
+    .second:nth-child(even){
+        display: contents;
+        
+    }
+    .second{
+        margin-bottom: 20px;
+        display: contents;
+    }
+    .image-serv img{
+        margin-top: 52px;
+        margin-bottom: 50px;
+        height: auto;
+        object-fit: cover;
+    }
+    .service-last h4{
+        font-size: 24px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .service-section{
+        margin-top: 45px;
+    }
+
+                        /* Service Single Page */
+
+    
+    .servicess h4{
+        line-height: 35px;
+    }
+    .servicess img{
+        margin-top: 30px;
+    }
+   
+  
+                        
+                        /* Blog Single Page */
+
+    .comment-form-comment textarea{
+        width: 100%;
+        height: auto;
+    }
+    .single-pp img{
+        width: 100%;
+        height: auto;
+    }
+    
+                                       /* Case Studies page  */
+
+    .filters-button-group .button{
+        margin-right: 15px;
+        line-height: 50px;
+    }
+    .element-item img{
+        width: 100%;
+    }
+    .filters-button-group{
+        margin-top: 40px;
+    }
+    .case-studies{
+        margin-bottom: 20px;
+    }
+                            /* Case studies single */
+
+    .singlecase img{
+        width: 100% !important;
+        height: auto;
+    }
+    .singlecase .elementor-widget-container{
+        width: 100% ;
+        
+    }
+    .singlecase .elementor-aspect-ratio-169 .elementor-fit-aspect-ratio{
+        height: auto;
+    }
+  
+    .featuredcase.box{
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .social-icons{
+        top: 50px;
+    }
+    .tempor{
+        margin-top: 20px;
+    }
+    .case-single{
+        margin-top: 54px;
+    }
+    .case-col2{
+        margin-top: 20px;
+    }
+    .singlecase2 .elementor-container{
+        display: flex;
+        flex-direction:column-reverse;
+    }
+                    /* News */
+    .news-division{
+        margin-top: -40px;
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+                    /* News Single */
+
+    .blog-single{
+        margin-bottom: 40px;
+        margin-top: 45px;
+    }
+    .author-details img{
+        width: 85px !important;
+        height: 85px !important;
+    } 
+    .bd{
+        margin-right: auto;
+    }
+   
+    .comment-meta.commentmetadata{
+        position: initial;
+        text-align: left;
+    }
+ 
+    .col-md-3.dates{
+        width: 100% !important;
+    }
+    .date_normal p{
+        position: absolute;
+    }
+    .au{  
+        font-size: 15px;  
+        line-height: 32px;
+    }
+    .date_normal{
+        display: contents;
+        line-height: 36px;
+    }
+    .title-bls{
+        margin-top: 20px;
+    }
+    .comment-meta.commentmetadata a{
+        font-size: 12px;
+    }
+            /* Knowledge Vault */
+
+          
+    section.knowledge-wrap{
+        display: contents !important;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .knowledge-wrap{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .knowledge-wrap .sidebar{
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-bottom: 30px;
+    }
+    section.knowledge-banner{
+        margin-bottom: 45px !important;
+    }
+    section.knowledge-banner{
+        height: 380px !important;
+        text-align: center;
+    }
+    .case-studies{
+        margin-top: 24px;
+    }
+    .act{
+        margin-top: -27px;
+    }
+    .act h2{
+        font-size: 50px;
+        margin-bottom: 39px;
+    }
+    
+    
+    .tb h5 {
+        display: inline-flex;
+    }
+    .tb h5:before{
+        margin-top: 6px;
+    }
+    h3#reply-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.comment-reply-title a {
+    margin-left: 0;
+    display: block;
+}
+}
+
+
+
+/**********************iPhone Landscape*************/
+@media only screen and (max-width: 767px) and (min-width: 480px){
+    .container{
+        width:100%;
+        padding: 0;
+    }
+    .logo{
+        display:none;
+    }
+    .navigation{
+        display:none;
+    }
+  
+    .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    #mc4wp-form-1{
+        margin-left:-15px !important;
+    }
+    .service-menu:before{
+        display: none;
+     }
+     .Knowledge-menu:before{
+         display: none;	
+     }
+     .title-content p{
+        margin-left: 15px;
+        margin-right:15px;
+    }
+    .title-content h3{
+        font-size: 40px;
+        line-height: 59px;
+
+    }
+    .title_properties p{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .item{
+        height:500px !important;
+    }
+    .tb h5:before{
+        margin-top: 6px;
+    }
+    .title-content h1{
+        margin-top: 125px;
+    }
+    .title-content{
+        margin-top: -32px;
+    }
+    .blog-division{
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    .slick-dots{
+        bottom: 43px;
+    }
+    .case{
+        margin-top: -44px !important;
+        height: 385px !important;
+    }
+    .adp{
+        margin-top: 40px !important;
+    }
+    .case-division{
+        margin-top: 50px;
+        padding-top: 40px;
+        padding-bottom: 70px;
+    }
+    .blog_contents.ink img{
+        width: 100% !important;
+    }
+    .post.fgdhbn{
+        width: 100% !important;
+    }
+    .nww{
+        margin-right: 35px;
+    }
+    .date_normal{
+        font-size: 12.5px;
+    }
+    .click-expand.ttt .eael-tab-title{
+        left: -100% !important;
+    }  
+    .td-content{
+        width: auto !important;
+    }  
+    .case-studies{
+        margin-top: 24px;
+    }
+    .partner-dd{
+        margin-top: -34px;
+    }
+    .partner-dd{
+        padding-top: 45px;
+        padding-bottom: 77px;
+    }
+    .error-msg{
+        padding-top: 90px;
+        padding-bottom: 55px;
+    }
+    .alignnone.size-medium.wp-image-2146{
+        width: 60% !important;
+    }
+    .alignnone.size-medium.wp-image-2147{
+        width: 60% !important;
+        margin-top: 15px;
+    }
+    .alignnone.size-medium.wp-image-2144{
+        width: 60% !important;
+    }
+    .alignnone.size-full.wp-image-2148{
+        width: 60% !important;
+    }
+    .alignnone.size-full.wp-image-2152{
+        width: 60% !important;
+    }
+    
+    .ghjj .search-search{
+        margin-bottom: 30px;
+    }
+    body.logged-in .comment-body p{
+        margin-top: -37px !important;
+    }
+    .tb h5 {
+        display: inline-flex;
+    }
+                                                /* Home page */
+
+
+    .home-banner{
+        height: 480px;
+    }
+    .welcome{
+        margin-top: -125px;
+    }
+    .header-next{
+        right: 15px;
+        padding: 11px 34px;
+        left: 15px;
+        display: flex;
+    justify-content: center;
+    }
+    .mail_to{
+        padding-right: 65px;
+    }
+    .section1 h3{
+        padding-top: 20px;
+    }
+    .article{
+        margin-top: 40px !important;
+    }
+    .test_content{
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    .testimonial{
+        padding-top: 100px !important;
+        padding-bottom: 50px;
+    }
+    /*  2 sections with account, tax, treasure, legal */
+
+    .section1 .elementor-column {
+        width: 50% !important;
+        padding:15px;
+        
+    }
+    .section1.elementor-section.elementor-section-boxed > .elementor-container{
+        column-gap: 0px;
+    }
+    .section2  img{
+        float: left !important;
+    }
+    .col-md-6.nww{
+        width: 17% !important;
+    }
+
+    /* Blog Section */
+    
+    .featuredcol.box{
+      margin-top: 35px;
+       
+    }
+    .blogs{
+        margin-top: 0px !important;
+    }
+  
+  
+    /* Footer */
+
+   
+    .foot1{
+        width: 24%;
+    }
+    .footnav3{
+        margin-top: 25px;
+    }
+    .foot4{
+        margin-top: 0px;
+    }
+    .footerDatas{
+        margin-top:40px;
+    }
+    #mc4wp-form-1 input[type="email"], #mc4wp-form-1 input[type="text"]{
+        width: 360px;
+    }
+   #mc4wp-form-1{
+    margin-top: 28px;
+   }
+  
+    .footSecond{
+        margin-bottom:40px;
+    }
+    #mc4wp-form-1 input[type="email"]{
+        margin-left: 0px;
+    }
+    #mc4wp-form-1 input[type="submit"]{
+        margin-left: 0px;
+    }
+    .foot4{
+        justify-content: flex-start;
+    }
+    #mc4wp-form-1 input[type="email"], [type="text"]{
+        margin-bottom: 15px;
+    }
+    .footer-sect h2{
+        font-size: 18px;
+    }
+
+                   /* About Page */
+   
+    .about-grid .elementor-column {
+        width: 50% !important;
+    }
+    .choose3{
+        margin-top: 30px;   
+      
+      
+    }
+    
+                  /* Testimonial */
+    .testimonial:before{
+        top: 54px;
+    }
+    .testimonial-section .elementor-column {
+        width: 50% !important;
+        padding:15px;
+
+    }
+    .testimonial-section.elementor-section.elementor-section-boxed > .elementor-container{
+        column-gap: 0px !important;
+    }
+
+                                     /* Contact Page */
+
+                                     .form-contact{
+                                        display: block;
+                                        column-gap: 0px;
+                                        padding: 0px 5px;
+                                    }
+        .phone:before{
+            justify-content: left;
+            margin-left: -59px;
+            margin-bottom: 0px;
+            margin-right: 10px;
+        }
+        .form1{
+            height: auto;
+            padding: 0px;
+        }
+        .form2{
+            padding: 0px;
+        }
+        .contact1{
+            width:100% !important;
+        }
+        #wpcf7-f956-p502-o1 input[type="text"], #wpcf7-f956-p502-o1 input[type="email"],#wpcf7-f956-p502-o1 input[type="tel"],#wpcf7-f956-p502-o1 textarea{
+            width: 100%;
+          
+          
+        }
+        #wpcf7-f956-p502-o1 label{
+            width: 100%;
+            padding: 0px !important;
+            
+        }
+        .contact1{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .mail:before{
+           position:inherit;
+           top: 0px;
+           margin-right: 10px;
+           
+        }
+       .send a{
+            font-size: 16px;
+        }
+        .phone{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .mail{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .wpcf7-response-output{
+            margin-bottom: 51px !important;
+            margin-right: 0px !important;
+            margin-left: 0px !important;
+        }
+      
+    .contact1{
+        margin-left: 45px;
+    }
+  
+                                /* Blog Page */
+
+    .banner-blog{
+        height: 300px;
+    }
+    .title_blog{
+        line-height: 53px;
+    }
+    .title_properties{
+        margin-top: 30px;
+    }
+    .blog_contents img{
+        width: 100%;
+      
+    }
+
+    .blogging .col-md-4{
+        width: 49.6%;
+        display:inline-table;
+        margin: 0px !important;
+        padding: 15px;
+    }
+  
+    .title_properties{
+        margin-top: 40px;
+    }
+    .title{
+        white-space: unset;
+    }
+                        /* Case Studies Page */
+
+    .grid .col-md-4{
+        width: 49.6%;
+        display:inline-table;
+        margin: 0px !important;
+        padding: 15px;
+    }
+    .element-item img{
+        width: 100%;
+    }
+    .filters-button-group{
+        margin-top: 52px;
+        text-align: center;
+        line-height: 49px;
+    }
+    
+                           /* Service Page */
+
+    .image-serv img{
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+    }
+    .second{
+        column-gap: 0px;
+    }
+    .second:nth-child(even){
+        column-gap: 0px;
+    }
+    .service-last h4{
+        font-size: 26px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .service-section{
+        margin-top: 45px;
+    }
+    .partner{
+        padding-top: 70px;
+        padding-bottom: 100px;
+    }
+    .first .col-md-6{
+        width: 50%;
+        margin: 0px !important;
+        padding: 15px;
+    }
+
+                            /* Service Single Page */
+
+    .service-single{
+        margin-top: 45px;
+    }
+    .servicess h4{
+        line-height: 35px;
+    }
+    .servicess img{
+         margin-top: 30px;
+    }
+ 
+                            
+                    /* Blog Single Page */
+
+                            
+    .comment-form-comment textarea{
+        width: 100%;
+        height: auto;
+    }
+  .single-pp img{
+        width: 100%;
+         height: auto;
+    }
+    
+    .search-search{  
+        width: 60%;
+    }
+   
+                                /* Case Studies Single page */
+
+    .singlecase .elementor-column{
+        width: 50%;
+        display:inline-table;
+        margin: 0px !important;
+        
+    }
+    .singlecase .elementor-widget-container{
+        width: 100%;
+    }
+    .singlecase .elementor-aspect-ratio-169 .elementor-fit-aspect-ratio{
+        height: 250px;
+    }
+   
+    .singlecase2 .elementor-column{
+        width: 50%;
+        display:inline-table;
+        margin: 0px !important;
+        
+    }
+    .singlecase p{
+        padding-left: 20px;
+        width: 100%;
+    }
+    .singlecase h2{
+        width: 100%;
+        padding-left: 20px;
+    }
+    .featuredcase.box{
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .social-icons{
+        top: 50px;
+    }
+    .tempor{
+        margin-top: 20px;
+    }
+    .case-single{
+        margin-top: 54px;
+    }
+                      /* News */
+    .news-division{
+        margin-top: -56px;
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    .author-details img{
+        width: 85px !important;
+        height: 85px !important;
+    } 
+    .prev-class{
+        margin-right: 90%;
+    }
+    .main-com{
+        margin-left: 15px;
+        margin-top: 30px;
+    }
+    
+   
+    .col-md-3.dates{
+        width: 25.5% !important;
+    }
+    
+    .bd{
+        margin-right: auto;
+    }
+            /* Knowledge Vault */
+
+            .section.knowledge-banner h1{
+                text-align: center !important;
+            }
+            section.knowledge-wrap{
+                display: contents !important;
+                margin-left: 15px;
+                margin-right: 15px;
+            }
+            .knowledge-wrap{
+                margin-left: 15px;
+                margin-right: 15px;
+            }
+            .knowledge-wrap .sidebar{
+                margin-left: 15px;
+                margin-right: 15px;
+                margin-bottom: 30px;
+            }
+            section.knowledge-banner{
+                margin-bottom: 45px !important;
+            }
+            section.knowledge-banner{
+                height: 380px !important;
+            }
+            .comment-body{
+                margin-top: 51px;
+            }
+                       
+            
+            .filters-button-group .button.is-checked{
+                line-height: 35px;
+            }
+            .children {
+    padding-left: 15px !important;
+}
+}
+
+/*************************iPad Portrait***************/
+@media only screen and (max-width: 985px) and (min-width: 768px){
+    .container{
+        width:100%;
+        padding: 0;
+    }
+    .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .logo{
+        display:none;
+    }
+    .navigation{
+        display:none;
+    }
+
+    .service-menu:before{
+        display: none;
+     }
+     .Knowledge-menu:before{
+         display: none;	
+     }
+     .title-content{
+        margin-top: -55px;
+    } 
+    .blog-division{
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    .slick-dots{
+        bottom: 43px;
+    }  
+    .case{
+        margin-top: -30px !important;
+        height: 354px !important;
+    }
+    .adp{
+        margin-top: 40px !important;
+    }
+    .case-division{
+        margin-top: 50px;
+        padding-top: 40px;
+        padding-bottom: 70px;
+    } 
+    .blog_contents.ink img{
+        width: 100% !important;
+    }
+    .post.fgdhbn{
+        width: 100% !important;
+    }
+    .nww{
+        margin-right: 135px;
+    }
+    .title-content p{
+        overflow: hidden;
+        max-height: 84px;
+        margin-bottom: 37px;
+    }
+    .click-expand.ttt .eael-tab-title{
+        left: -366px !important;
+    }
+    .bd{
+        margin-right: auto;
+    }
+    .comment-body p{
+        width:82% !important
+    }
+    .partner-dd{
+        margin-top: -26px;
+    }
+    .partner-dd{
+        padding-top: 52px;
+        padding-bottom: 77px;
+    }
+    .error-msg{
+        padding-top: 90px;
+        padding-bottom: 55px;
+    }
+    .a2a_svg{
+        background-color: #fff !important;
+    }
+
+    .alignnone.size-medium.wp-image-2146{
+        width: 60% !important;
+    }
+    .alignnone.size-medium.wp-image-2147{
+        width: 60% !important;
+        margin-top: 15px;
+    }
+    .alignnone.size-medium.wp-image-2144{
+        width: 60% !important;
+    }
+    .alignnone.size-full.wp-image-2148{
+        width: 60% !important;
+    }
+    .alignnone.size-full.wp-image-2152{
+        width: 60% !important;
+    }
+    .sidebar #leftside-navigation ul li a :before{
+        margin-bottom: 4px;
+    }
+    .ghjj .search-search{
+        margin-bottom: 23px;
+    }
+                    /* Footer */
+
+    .foot1{
+        width: 24%;
+    }
+    .foot4{
+        margin-top: 0px;
+    }
+    .footnav3{
+        margin-top: 25px;
+    }
+    .footerDatas{
+        margin-top:40px;
+    }
+ 
+    #mc4wp-form-1{
+        margin-top: 28px;
+    }     
+    .footSecond{
+        margin-bottom:40px;
+    }
+    #mc4wp-form-1 input[type="email"]{
+        margin-left: 0px;
+    }
+    #mc4wp-form-1 input[type="submit"]{
+        margin-left: 0px;
+    }
+    .foot4{
+        justify-content: flex-start;
+    }
+    #mc4wp-form-1 input[type="email"], [type="text"]{
+        margin-bottom: 15px;
+    }
+    .footer-sect h2{
+        font-size: 18px;
+    } 
+    #mc4wp-form-1 input[type="email"], #mc4wp-form-1 input[type="text"]{
+        width: 360px;
+    }
+    #mc4wp-form-1 input[type="email"], #mc4wp-form-1 input[type="text"]{
+        -webkit-box-shadow: none !important;
+        -moz-box-shadow: none !important;
+        box-shadow: none !important;
+        appearance: none;
+        -moz-appearance: none;
+        -webkit-appearance: none;
+    }
+ 
+
+                                    /* Home Page */
+ 
+    #mc4wp-form-1{
+        margin-left:-15px !important;
+    }
+    .test_content{
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+    .about-image{
+        margin-top:-35px !important;
+    }
+    .header-next{
+        right: 87px;
+    }
+    /* About Us */
+
+    .section2 img{
+        float: left !important;
+    }
+    .section2 .elementor-column{
+        width: 100% !important;
+    }
+  
+    .section2 p{
+        margin-bottom: 15px;
+    }
+  
+
+ 
+    /* Blog Section */
+        
+    .featuredcol.box{
+        padding-bottom: 30px;
+    }
+    .featuredcol p{
+        padding-bottom: 15px;
+    }
+    /*  2 sections with account, tax, treasure, legal */
+
+    .section1 .elementor-column {
+        width: 50% !important;
+        padding:15px;
+        
+    }
+    .section1.elementor-section.elementor-section-boxed > .elementor-container{
+        column-gap: 0px;
+    }
+    
+                   /* Testimonial */
+
+    .testimonial-section .elementor-column {
+        width: 50% !important;
+        padding:15px;
+            
+    }
+    .testimonial-section.elementor-section.elementor-section-boxed > .elementor-container{
+        column-gap: 0px !important;
+    }
+  
+                                     /* Contact Page */
+
+    #wpcf7-f956-p502-o1 label{
+        width: 100% !important;
+    }
+    #wpcf7-f956-p502-o1 input[type="text"], #wpcf7-f956-p502-o1 input[type="email"], #wpcf7-f956-p502-o1 input[type="tel"] {
+        width: 100%;
+    }
+    #wpcf7-f956-p502-o1 textarea {
+        width: 100%;
+    }                                                            
+    .form-contact{
+        display: block;
+        column-gap: 0px;
+        padding: 0px 5px;
+    }
+    .phone:before{
+        margin-right: 200px;
+    }
+    .form1{
+        height: auto;
+        padding: 0px;
+    }
+    .form2{
+        padding: 0px;
+    }
+    .wpcf7-response-output{
+        margin-bottom: 51px !important;
+        margin-right: 5px !important;
+        margin-left: 5px !important;
+    }
+
+
+                          /* Blog Page */
+
+    .banner-blog{
+        height: 400px;
+    }
+    .title_blog{
+        line-height: 53px;
+    }
+    .title_properties{
+        margin-top: 30px;
+    }
+    .blogging .col-md-4{
+        width: 49.6%;
+        display:inline-table;
+        margin: 0px !important;
+        padding: 15px;
+    }
+    .blog_contents img{
+        width: 100%;
+    }
+    .title_properties{
+        margin-top: 40px;
+    }
+    .title{
+        white-space: unset;
+    }
+
+   
+  
+                                /* Service Page */
+
+    .image-serv img{
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+    }
+    .second{
+        column-gap: 0px;
+    }
+    .second:nth-child(even){
+        column-gap: 0px;
+    }
+    .service-last h4{
+        font-size: 26px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .service-section{
+        margin-top: 45px;
+    }
+    .partner{
+        padding-top: 70px;
+        padding-bottom: 100px;
+    }
+    .first .col-md-6{
+        width: 50%;
+        margin: 0px !important;
+        padding: 15px;
+    }
+                       /* Service Single Page */
+
+    .service-single{
+        margin-top: 50px;
+    }
+    .servicess h4{
+        line-height: 35px;
+    }
+
+                        /* Blog Single Page */
+
+    .comment-form-comment textarea{
+        width: 100%;
+        height: auto;
+    }
+    .single-pp img{
+        width: 100%;
+        height: auto;
+    }
+    .comments-area{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+                            /* Case Studies Page */
+
+    .grid .col-md-4{
+        width: 49.6%;
+        display:inline-table;
+        margin: 0px !important;
+        padding: 15px;
+    }
+    .element-item img{
+        width: 100%;
+    }
+    .element-item > *{
+        padding:0px !important;
+    }
+    .element-item {
+		position:relative!important;
+		left:auto!important;
+		top:auto!important;
+	}
+                       /* About Page */
+   
+    .about-grid .elementor-column {
+        width: 50% !important;
+    }
+    .choose3{
+        margin-top: 30px;   
+                      
+    }
+                    /* Case Studies Single Page */
+
+    .singlecase .elementor-widget-container{
+        width: 100%;
+    }
+    .singlecase .elementor-aspect-ratio-169 .elementor-fit-aspect-ratio{
+        height: 250px;
+    }
+  
+    .singlecase p{
+        padding-left: 20px;
+        width: 100%;
+    }
+    .singlecase h2{
+        width: 100%;
+        padding-left: 20px;
+    }
+    .featuredcase.box{
+        margin-top: 18px;
+        margin-left: 0px;
+    }
+    .social-icons{
+        top: 70px;
+    }
+ 
+    .case-single{
+        margin-top: 40px;
+    }
+  
+    .client{
+        width: 50%;
+    }
+    .title_blog{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+                        /* News */
+    .news-division{
+        margin-top: -56px;
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+                /* Home banner */
+
+    .item{
+        height:555px !important;
+    }
+    .title-content p{
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    .title-content h1{
+        margin-top: 125px;
+    }
+    .author-details img{
+        width: 85px !important;
+        height: 85px !important;
+    } 
+    .prev-class{
+        margin-right: 88%;
+    }
+    .main-com{
+        margin-left: 15px;
+        margin-top: 40px;
+    }  
+    .search-search{
+        width: 60%;
+    } 
+    .blog-single{
+        margin-top: 50px;
+    }
+     /* Knowledge Vault */
+
+     .section.knowledge-banner h1{
+        text-align: center !important;
+    }
+    section.knowledge-wrap{
+      
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .knowledge-wrap{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .knowledge-wrap .sidebar{
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-bottom: 30px;
+    }
+    section.knowledge-banner{
+        margin-bottom: 45px !important;
+    }
+    section.knowledge-banner{
+        height: 380px !important;
+    }
+    .sidebar{
+        width: 242px !important;
+    }
+    .sidebar h2{
+        line-height: 40px;
+        width: 213px !important;
+    }  
+
+    section.knowledge-wrap{
+        display: contents !important;
+    }
+    .financetips {
+        width: auto !important;
+    }
+    .adp h2{
+        line-height: 50px !important;
+    }
+    #mc4wp-form-1 input[type="email"], #mc4wp-form-1 input[type="text"]{
+        box-shadow: none !important;
+        -webkit-appearance: none !important;
+        -moz-appearance: none !important;
+        appearance: none !important;
+    }
+    .col-md-6.nww{
+        width: 0% !important;
+    }
+    .date_normal p{
+        margin-right: 17px;
+    }
+  
+    .dates{
+        margin-left: -12px;
+    }
+    .col-md-3.dates{
+        width: 24% !important;
+    }
+    .col-md-3.demm{
+        width: 31% !important;
+    }
+}
+
+/**************iPad Landscape***************/
+@media only screen and ( max-width: 1024px ) and (min-width: 986px){
+    .container{
+        width:100%;
+        padding: 0;
+    }
+    .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .logo{
+        display:none;
+    }
+    .navigation{
+        display:none;
+    }
+
+    .service-menu:before{
+        display: none;
+     }
+     .Knowledge-menu:before{
+         display: none;	
+     }
+     .mobmenu-right-bt{
+        top: 47px;
+     }
+     .mobmenur-container i{
+        margin-top: -18px;
+     }
+     .click-expand.ttt .eael-tab-title{
+        left: -314px !important;
+     }
+     .partner-dd{
+        margin-top: -26px;
+    }
+    .partner-dd{
+        padding-top: 52px;
+        padding-bottom: 77px;
+    }
+    .error-msg{
+        padding-top: 90px;
+        padding-bottom: 55px;
+    }
+    .a2a_svg{
+        background-color: #fff !important;
+    }
+    .alignnone.size-medium.wp-image-2146{
+        width: 60% !important;
+    }
+    .alignnone.size-medium.wp-image-2147{
+        width: 60% !important;
+        margin-top: 15px;
+    }
+    .alignnone.size-medium.wp-image-2144{
+        width: 60% !important;
+    }
+    .alignnone.size-full.wp-image-2148{
+        width: 60% !important;
+    }
+    .alignnone.size-full.wp-image-2152{
+        width: 60% !important;
+    }
+    /* Footer */
+    #mc4wp-form-1{
+        margin-right: 35px;
+        margin-left: -15px;
+    }
+    #mc4wp-form-1 input[type="email"], #mc4wp-form-1 input[type="text"]{
+        width: 160px;
+    }
+    .element-item > *{
+        padding:0px !important;
+    }
+    .blog-division{
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    .case{
+        margin-top: -30px !important;
+        height: 354px !important;
+    }
+    .adp{
+        margin-top: 40px !important;
+    }
+    .case-division{
+        margin-top: 50px;
+        padding-top: 40px;
+        padding-bottom: 70px;
+    }
+    .blog_contents.ink img{
+        width: 100% !important;
+    }
+    .post.fgdhbn{
+        width: 100% !important;
+    }
+                                /* Home Page */
+    
+  
+    .article{
+        margin-top: 40px !important;
+    }
+    .testimonial{
+        margin-top: 60px !important;
+    }
+
+    .finance-basics{
+        margin-top: 30px !important;
+    }
+    .section2 p{
+        margin-right: 30px;
+    }
+    .welcome p{
+        margin-left: 95px !important;
+        margin-right: 95px !important;
+    }
+  
+    /*  2 sections with account, tax, treasure, legal */
+
+    .section1 .elementor-column {
+        width: 50% !important;
+        padding:15px;
+        
+    }
+    .section1.elementor-section.elementor-section-boxed > .elementor-container{
+        column-gap: 0px;
+    }
+ 
+                      /* Testimonial */
+
+    .testimonial-section .elementor-column {
+        width: 50% !important;
+        padding:15px;
+                            
+    }
+    .testimonial-section.elementor-section.elementor-section-boxed > .elementor-container{
+        column-gap: 0px !important;
+    }
+
+                                             /* Contact Page */
+
+                           
+    .form-contact{
+        display: block;
+        column-gap: 0px;
+    }
+    #wpcf7-f956-p502-o1 input[type="text"], #wpcf7-f956-p502-o1 input[type="email"],#wpcf7-f956-p502-o1 input[type="tel"],#wpcf7-f956-p502-o1 textarea{
+        width: 100%;
+    }
+
+    #wpcf7-f956-p502-o1 label{
+        width: 100%;
+    }
+    .phone:before{
+        margin-right: 82px;
+    }
+    .form1{
+        height: auto;
+
+    }
+    .elementor-column-gap-default>.elementor-column>.elementor-element-populated{
+        padding: 0px !important;
+    }
+    .wpcf7-response-output{
+        margin-bottom: 51px !important;
+        margin-right: 15px !important;
+        margin-left: 15px !important;
+    }
+    
+  
+                          /* Blog Page */
+
+    .banner-blog{
+        height: 400px;
+    }
+    .title_blog{
+        line-height: 53px;
+    }
+    .title_properties{
+        margin-top: 30px;
+    }
+    .blog_contents img{
+        width: 100%;
+       
+    }
+ 
+    .title_properties{
+        margin-top: 40px;
+    }
+  
+    .title{
+        white-space: unset;
+    }
+    .blogging .col-md-4{
+        width: 33.33%;
+        display:inline-table;
+        margin: 0px !important;
+        padding: 15px;
+        height:518px;
+    }
+
+                                /* Service Page */
+
+    .image-serv img{
+        width: 484px;
+        height: auto;
+        object-fit: cover;
+    }
+    .second{
+        column-gap: 0px;
+    }
+    .second:nth-child(even){
+        column-gap: 0px;
+    }
+
+
+                    /* Case Studies */
+
+    .grid .col-md-4{
+        width: 33.33%;
+        display:inline-table;
+        margin: 0px !important;
+        padding: 15px;
+    }
+    .element-item img{
+        width: 100%;
+    }
+    .element-item > *{
+        padding:0px !important;
+    }
+ 
+    .element-item {
+        position:relative!important;
+        left:auto!important;
+        top:auto!important;
+        bottom: auto !important;
+        height: auto!important;
+    }
+    .grid{
+        height: auto !important;
+    }
+
+                       /* Service Single Page */
+
+    .service-single{
+        margin-top: 50px;
+    }
+                        
+                        /* Blog Single Page */
+
+    .comment-form-comment textarea{
+        width: 100%;
+        height: auto;
+    }
+    .single-pp img{
+        width: 100%;
+        height: auto;
+    }
+    .comments-area{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    
+                    /* Case Studies Single Page */
+
+    .singlecase .elementor-widget-container{
+        width: 100%;
+    }
+    .singlecase .elementor-aspect-ratio-169 .elementor-fit-aspect-ratio{
+        height: 400px;
+    }
+                  
+    .singlecase p{
+        padding-left: 20px;
+        width: 100%;
+    }
+    .singlecase h2{
+        width: 100%;
+        padding-left: 20px;
+    }
+    .featuredcase.box{
+        margin-top: 18px;
+        margin-left: 0px;
+    }
+    .social-icons{
+        top: 70px;
+    }
+                 
+    .case-single{
+        margin-top: 40px;
+    }
+                  
+    .client{
+        width: 50%;
+    }
+    .title_blog{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+                         /* News */
+    .news-division{
+        margin-top: -56px;
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+                    /* Home banner */
+
+    .item{
+        height:600px !important;
+    }
+    .title-content p{
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    .title-content h1{
+        margin-top: 125px;
+    }
+    .author-details img{
+        width: 85px !important;
+        height: 85px !important;
+    } 
+    .prev-class{
+        margin-right: 88%;
+    }
+    .main-com{
+        margin-left: 15px;
+    }
+    .blog-single{
+        margin-top: 50px;
+    } 
+     /* Knowledge Vault */
+
+     .section.knowledge-banner h1{
+        text-align: center !important;
+    }
+    section.knowledge-wrap{
+      
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .knowledge-wrap{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .knowledge-wrap .sidebar{
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-bottom: 30px;
+    }
+    section.knowledge-banner{
+        margin-bottom: 45px !important;
+    }
+    section.knowledge-banner{
+        height: 380px !important;
+    }
+    .sidebar{
+        width: 242px !important;
+    }
+    .sidebar h2{
+        line-height: 40px;
+        width: 205px;
+    }  
+ 
+    .header-next{
+        right: 15px;
+    }
+    .col-md-3.dates{
+        width: 27% !important;
+    }
+    .col-md-3.demm{
+        width: 34% !important;
+
+    }
+    #mc4wp-form-1 input[type="email"], #mc4wp-form-1 input[type="text"]{
+        -webkit-box-shadow: none !important;
+        -moz-box-shadow: none !important;
+        box-shadow: none !important;
+        appearance: none;
+        -moz-appearance: none;
+        -webkit-appearance: none;
+    }
+    .col-md-6.nww{
+        width: 20% !important;
+    }
+    .tb h5{
+        display: inline-flex;
+    }
+    .tb h5:before{
+        margin-top: 6px;
+    }
+    .ghjj .search-search{
+        margin-bottom: 55px;
+    }
+    .comment-meta.commentmetadata a{
+        margin-left: -60px
+    }
+    form.comment-form{
+        width: 659px;
+    }
+    .bd{
+        margin-right: 35%;
+        margin-left: 15px;
+    }
+    .chindren a{
+        margin-left: -99px;
+    }
+}
+
+/*******************************************/

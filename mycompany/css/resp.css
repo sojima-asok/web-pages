@@ -1,0 +1,299 @@
+/***************iPhone Portrait**************/
+
+@media only screen and (max-width: 479px) and (min-width: 320px) {
+    html, body{
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+	.container{
+		width: 100%;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.banner{
+		padding-top: 80px;
+		padding-bottom: 110px;
+	}
+	.digital-bannner{
+		padding-top: 80px;
+		padding-bottom: 110px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.btn-two{
+		padding: 20px;
+	}
+	.web-width table{
+		width: 100%;
+	}
+	.news-email{
+		width: 91%;
+	}
+	.news-submit{
+		margin-top: 30px;
+	}
+	.footer-class{
+		padding-top: 45px;
+		padding-bottom: 78px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.testimonial-bannner{
+		height: 100%;
+	}
+	table, thead, tbody, th, td, tr { 
+		display: block; 
+		width: 100%;
+	
+	}
+	.cmpy-content{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.left-sect{
+		margin-left: 13px;
+		margin-right: 23px;
+		width: 93%;
+	}
+	.menu__btn{
+		right: 15px;
+		top: 33px;
+	}
+	.icons{
+		text-align: center !important;
+		margin-top: 20px;
+	}
+	.header img{
+		margin-left: 15px;
+	}
+
+	.digital-content h2{
+		line-height: 39px;
+	}
+	.heading{
+		text-align: left;
+	}
+	.company{
+		margin-bottom: 21px;
+	}
+	.tr-height{
+		height: 70px;
+	}
+	.foot-menu{
+		line-height: 27px;
+	}
+}
+
+
+/***************iPhone Landscape*************/
+
+@media only screen and (max-width: 767px) and (min-width: 480px) {
+	html, body{
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+	.container, .container-sm{
+		max-width: 100%;
+	}
+	.container{
+		width: 100%;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+
+	.banner{
+		padding-top: 80px;
+		padding-bottom: 110px;
+	}
+	.digital-bannner{
+		padding-top: 80px;
+		padding-bottom: 110px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.btn-two{
+		padding: 20px;
+	}
+	.web-width table{
+		width: 100%;
+	}
+	.news-email{
+		width: 91%;
+	}
+	.news-submit{
+		margin-top: 30px;
+	}
+	.footer-class{
+		padding-top: 80px;
+		padding-bottom: 110px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.testimonial-bannner{
+		height: 100%;
+	}
+
+	.cmpy-content{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.blog{
+		overflow: auto;
+	}
+	.cmpy-content img{
+		width: 80px;
+    	height: 80px;
+	}
+	.menu__btn{
+		right: 11px;
+	}
+	.menu__box li a{
+		padding-left: 8%; 
+	}
+	
+}
+
+
+/********************************************/
+
+
+
+
+
+/********************************************/
+
+
+/***************custom breakpoints**************/
+/****************iPad Portrait***************/
+
+@media only screen and (max-width: 985px) and (min-width: 768px) {
+
+	html, body{
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+	.container, .container-sm{
+		max-width: 100%;
+	}
+	.container{
+		width: 100%;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.banner{
+		padding-top: 80px;
+		padding-bottom: 110px;
+	}
+	.digital-bannner{
+		padding-top: 80px;
+		padding-bottom: 110px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.btn-two{
+		padding: 20px;
+	}
+	.web-width table{
+		width: 100%;
+	}
+	.news-email{
+		width: 91%;
+	}
+	.news-submit{
+		margin-top: 30px;
+	}
+	.footer-class{
+		padding-top: 80px;
+		padding-bottom: 110px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.testimonial-bannner{
+		height: 100%;
+	}
+
+	.cmpy-content{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.blog{
+		overflow: auto;
+	}
+	.cmpy-content img{
+		width: 80px;
+    	height: 80px;
+	}
+	.menu__btn{
+		right: 10px;
+	}
+}
+
+
+/********************************************/
+
+
+/************** iPad Landscape **************/
+
+@media only screen and ( max-width: 1024px ) and (min-width: 986px){
+
+	.container{
+		width: 100%;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	html, body{
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+	.container, .container-sm{
+		max-width: 100%;
+	}
+	.banner{
+		padding-top: 80px;
+		padding-bottom: 110px;
+	}
+	.digital-bannner{
+		padding-top: 80px;
+		padding-bottom: 110px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.btn-two{
+		padding: 20px;
+	}
+	.web-width table{
+		width: 100%;
+	}
+	.news-email{
+		width: 91%;
+	}
+	.news-submit{
+		margin-top: 30px;
+	}
+	.footer-class{
+		padding-top: 80px;
+		padding-bottom: 110px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.testimonial-bannner{
+		height: 100%;
+	}
+
+	.cmpy-content{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.blog{
+		overflow: auto;
+	}
+	.cmpy-content img{
+		width: 80px;
+    	height: 80px;
+	}
+	.menu__btn{
+		right: 10px;
+	}
+}
+
